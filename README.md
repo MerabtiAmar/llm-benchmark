@@ -61,4 +61,4 @@ Code distribué sous [licence MIT](LICENSE).
 
 ## Auteurs
 
-**Amar Merabti** et **Lynda Hammouche** — TER encadré par Mohamed Bouadi, Master 1 Données, Connaissances et Intelligence, Université Paris Cité.
+**Amar Merabti** — TER encadré par Mohamed Bouadi, Master 1 Données, Connaissances et Intelligence, Université Paris Cité.
